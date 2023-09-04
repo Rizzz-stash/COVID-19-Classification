@@ -59,3 +59,4 @@ Based on the research outcomes, several recommendations for further development 
 4. **Exploration of Fine-Tuning Methods:**
    Fine-tuning involves adapting a pre-trained model to a new dataset, such as the COVID-19 image dataset used in this research. Fine-tuning can lead to better alignment with specific dataset characteristics and enhance model performance. Therefore, exploring the use of fine-tuning methods on the MobileNet model can improve accuracy and generalization in the COVID-19 image classification task.
 
+For a comprehensive analysis of the results and more detailed information, please refer to the [Report Code Number 3_MobileNetV1_701515_Report](3_MobileNetV1_701515_Report.ipynb) , and [Report Code Number 3_MobileNetV1_801010_Report](3_MobileNetV1_801010_Report.ipynb).
