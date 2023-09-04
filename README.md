@@ -9,7 +9,9 @@ This research makes a significant contribution to the advancement of knowledge a
 ## Features
 
 - **COVID-19 Image Classification:** Utilize a Convolutional Neural Network (CNN) with MobileNet architecture to classify COVID-19 images accurately.
+
 - **High Accuracy:** Achieve high accuracy in the classification of COVID-19 images, ensuring reliable results.
+
 - **Continuous Improvement:** Commitment to ongoing development and improvement of the COVID-19 classification model.
 
 ## Technologies Used
