@@ -14,7 +14,7 @@ This research makes a significant contribution to the advancement of knowledge a
 
 - **Continuous Improvement:** Commitment to ongoing development and improvement of the COVID-19 classification model.
 
-## Technologies Used
+## Main Technologies Used
 
 - **TensorFlow:** The core machine learning library used for building and training the COVID-19 classification model.
 
